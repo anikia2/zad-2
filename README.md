@@ -1,5 +1,7 @@
 zad-2
 =====
+zad2
+
 #include<stdio.h>
  
 main()
